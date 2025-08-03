@@ -3,7 +3,7 @@
 ![Sowrav Hasan Portfolio](https://i.ibb.co/Y7PsKqZ/IMG-2041.jpg)
 
 ## 🚀 Live Demo
-- **Netlify:** [https://sowravhasan.netlify.app/](https://sowravhasan.netlify.app/)
+- **Netlify:** [https://sowrav-portfolio.netlify.app/](https://sowrav-portfolio.netlify.app/)
 - **GitHub Pages:** [https://sowravhasan.github.io/portfolio/](https://sowravhasan.github.io/portfolio/)
 - **Vercel:** [https://sowrav-portfolio.vercel.app/](https://sowrav-portfolio.vercel.app/)
 
